@@ -1,6 +1,9 @@
 # Responsible-Human-Centred-RL-Design
 Coursework submitted for COMP6247 Reinforcement Learning Literatue Review, MEng/MSc module
 
+**Title:**
+
+Evaluating Responsible Design in Human-Centred Reinforcement Learning
 
 **Abstract:**
 
